@@ -1,0 +1,17 @@
+Subject: Update on Your Application to Accenture India Pvt Ltd
+
+Dear Sarah Lee,
+
+Thank you for your interest in the [Job Title] position at Accenture India Pvt Ltd and for taking the time to submit your application. We appreciate you sharing your background and experience with us.
+
+We were particularly impressed with your self-taught development skills and the personal projects you've built, including your responsive personal blog and task manager app using React and Next.js. Your enthusiasm for problem-solving and continuous learning is also commendable.
+
+However, after careful consideration, we regret to inform you that we will not be moving forward with your application at this time. This decision was a difficult one, as we received a large number of highly qualified applications.
+
+We want to thank you again for your interest in Accenture India Pvt Ltd. We wish you the best of luck in your job search and future endeavors.
+
+Sincerely,
+
+Kartik Aswar
+HR Coordinator
+Accenture India Pvt Ltd

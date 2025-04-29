@@ -1,0 +1,19 @@
+```email
+Subject: Following Up: Full-Stack Developer Application - Linda Smith
+
+Dear Linda,
+
+Thank you for your interest in the Full-Stack Developer position at Accenture India Pvt Ltd and for taking the time to submit your application. We appreciate you sharing your background and experience with us.
+
+We were particularly impressed with your experience in front-end technologies like React and Next.js, as well as your recent exploration of AI integrations using the Vercel AI SDK and CrewAI. Your focus on creating seamless, user-friendly interfaces aligns well with our team's goals.
+
+We would like to invite you to a Zoom call to discuss your qualifications and experience further. Would you be available for a call sometime in the next few days? Please let me know what times work best for you.
+
+We look forward to hearing from you soon.
+
+Best regards,
+
+Kartik Aswar
+HR Coordinator
+Accenture India Pvt Ltd
+```

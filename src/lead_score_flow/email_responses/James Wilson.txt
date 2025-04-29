@@ -1,0 +1,19 @@
+```email
+Subject: Update on Your Application to Accenture India Pvt Ltd
+
+Dear James Wilson,
+
+Thank you for your interest in the Intermediate Developer position at Accenture India Pvt Ltd and for taking the time to submit your application. We appreciate you sharing your background and experience with us.
+
+We were particularly impressed with your experience with React and your enthusiasm for exploring AI-driven projects, including your recent work with Next.js and the Vercel AI SDK. It's great to see your eagerness to learn new technologies and apply them to solve real-world problems.
+
+However, after careful consideration, we regret to inform you that we will not be moving forward with your application at this time. This decision was a difficult one, as we received a large number of highly qualified applications.
+
+We wish you the best of luck in your job search and future endeavors.
+
+Sincerely,
+
+Kartik Aswar
+HR Coordinator
+Accenture India Pvt Ltd
+```

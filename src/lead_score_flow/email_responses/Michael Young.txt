@@ -1,0 +1,21 @@
+```
+Subject: Update on Your Application to Accenture India Pvt Ltd
+
+Dear Amy White,
+
+Thank you for your interest in the Senior Developer position at Accenture India Pvt Ltd and for taking the time to submit your application. We appreciate you sharing your background and experience with us.
+
+We were particularly impressed with your extensive experience in full-stack development and AI integrations, especially your work with AI-powered tools like CrewAI and the Vercel AI SDK. Your passion for mentoring junior developers and your track record of delivering high-quality products were also notable.
+
+However, after careful consideration, we regret to inform you that we will not be moving forward with your application at this time. We received a large number of highly qualified applications, and we have decided to pursue other candidates whose qualifications and experience more closely align with the specific requirements of this role.
+
+This decision is not a reflection of your skills or experience, and we encourage you to apply for other positions at Accenture India Pvt Ltd that may be a good fit for you in the future.
+
+Thank you again for your interest in Accenture India Pvt Ltd. We wish you the best of luck in your job search.
+
+Sincerely,
+
+Kartik Aswar
+HR Coordinator
+Accenture India Pvt Ltd
+```
