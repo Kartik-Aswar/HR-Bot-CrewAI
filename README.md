@@ -1,6 +1,6 @@
-# Lead Score Flow
+# HR Bot
 
-Welcome to the Lead Score Flow project, powered by [crewAI](https://crewai.com). This example demonstrates how you can leverage Flows from crewAI to automate the process of scoring leads, including data collection, analysis, and scoring. By utilizing Flows, the process becomes much simpler and more efficient.
+Welcome to the HR Bot project, powered by [crewAI](https://crewai.com). This project demonstrates how you can leverage Flows from crewAI to automate the process of scoring leads, including data collection, analysis, and scoring. By utilizing Flows, the process becomes much simpler and more efficient.
 
 ## Overview
 
@@ -34,7 +34,7 @@ crewai install
 
 ### Customizing & Dependencies
 
-**Add your `OPENAI_API_KEY` into the `.env` file**  
+**Add your `GEMINI_API_KEY` into the `.env` file**  
 **Add your `SERPER_API_KEY` into the `.env` file**
 
 
